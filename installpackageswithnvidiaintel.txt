@@ -1,3 +1,4 @@
+linux-headers
 linux-firmware
 nvidia
 nvidia-utils
