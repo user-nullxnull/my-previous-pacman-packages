@@ -164,3 +164,4 @@ fastfetch
 hyfetch
 vulkan-tools
 python-watchdog
+flatpak
