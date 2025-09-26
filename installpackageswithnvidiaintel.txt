@@ -162,4 +162,3 @@ xdg-desktop-portal
 xdg-user-dirs-gtk
 fastfetch
 hyfetch
-qogir-gtk-theme
