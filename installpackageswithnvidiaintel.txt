@@ -1,5 +1,5 @@
 linux-firmware
-nvidia-dkms
+nvidia
 vulkan-intel
 zip
 libwnck
