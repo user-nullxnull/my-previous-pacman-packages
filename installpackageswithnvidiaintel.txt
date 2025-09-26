@@ -1,5 +1,6 @@
 linux-firmware
 nvidia
+nvidia-utils
 vulkan-intel
 zip
 libwnck
