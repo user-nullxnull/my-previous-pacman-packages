@@ -161,3 +161,4 @@ xdg-desktop-portal
 xdg-user-dirs-gtk
 fastfetch
 hyfetch
+vulkan-tools
