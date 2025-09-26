@@ -11,8 +11,7 @@ xorg-xinit
 xorg-xinput
 xorg-xkill
 xorg-xrandr
-xf86-video-amdgpu
-xf86-video-ati
+xf86-video-intel
 b43-fwcutter
 broadcom-wl-dkms
 dnsmasq
