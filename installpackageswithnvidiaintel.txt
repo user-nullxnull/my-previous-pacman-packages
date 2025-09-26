@@ -163,3 +163,4 @@ xdg-user-dirs-gtk
 fastfetch
 hyfetch
 vulkan-tools
+python-watchdog
