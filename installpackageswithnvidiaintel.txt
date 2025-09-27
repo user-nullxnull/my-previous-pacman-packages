@@ -167,3 +167,4 @@ vulkan-tools
 python-watchdog
 flatpak
 fish
+dracut
