@@ -796,7 +796,6 @@ vte-common
 vte3
 vte4
 vulkan-icd-loader
-vulkan-intel
 vulkan-tools
 wavpack
 wayland
