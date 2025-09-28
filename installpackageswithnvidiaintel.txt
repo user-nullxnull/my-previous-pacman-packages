@@ -856,6 +856,7 @@ yad
 zbar
 zeromq
 zimg
+zip
 zix
 zlib
 zlib-ng
