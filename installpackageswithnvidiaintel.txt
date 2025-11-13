@@ -831,6 +831,7 @@ xfsprogs
 xkeyboard-config
 xl2tpd
 xmlsec
+xorriso
 xorg-fonts-encodings
 xorg-server
 xorg-server-common
